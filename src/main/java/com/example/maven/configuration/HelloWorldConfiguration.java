@@ -20,7 +20,7 @@ public class HelloWorldConfiguration {
 		viewResolver.setPrefix("/WEB-INF/views/");
 		viewResolver.setSuffix(".jsp");
 		
-		return viewResolver();
+		return viewResolver;
 	}
 	
 }
