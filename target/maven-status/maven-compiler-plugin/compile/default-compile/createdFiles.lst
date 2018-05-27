@@ -1,0 +1,3 @@
+com\example\maven\configuration\HelloWorldConfiguration.class
+com\example\maven\controller\HelloWorldController.class
+com\example\maven\configuration\HelloWorldInitializer.class
